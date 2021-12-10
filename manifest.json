@@ -11,6 +11,12 @@
     "theme_color": "#ffffff",
     "categories": [],
     "screenshots": [],
-    "icons": ["images/app-icon.JPG"],
+    "icons": [
+        {
+          "src": "/images/app-icon.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
     "shortcuts": []
   }
