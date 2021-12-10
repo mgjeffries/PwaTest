@@ -1,0 +1,16 @@
+{
+    "background_color": "#ffffff",
+    "description": "Web Developer and Mechanical Engineer",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Gib Jeffries",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Gib Jeffries",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "categories": [],
+    "screenshots": [],
+    "icons": ["images/app-icon.JPG"],
+    "shortcuts": []
+  }
